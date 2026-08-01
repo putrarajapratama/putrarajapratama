@@ -15,7 +15,3 @@ I’m currently learning Game Developer/PPLG at SMK Wikrama Bogor <br>and I have
 </picture>
 
 ###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/putrarajapratama/putrarajapratama/snake-output/snake.svg" alt="Snake animation" />
-
-###
