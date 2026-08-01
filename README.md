@@ -12,17 +12,46 @@ I’m currently learning Game Developer/PPLG at SMK Wikrama Bogor <br>and I have
 ![](https://streak-stats.demolab.com/?user=putrarajapratama &theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=putrarajapratama &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=putrarajapratama &theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/putrarajapratama/putrarajapratama/snake-output/snake.svg" alt="Snake animation" />
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putrarajapratama/putrarajapratama/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/putrarajapratama/putrarajapratama/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/putrarajapratama/putrarajapratama/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
----
-[![](https://komarev.com/ghpvc/?username=putrarajapratama &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/putrarajapratama/putrarajapratama/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=putrarajapratama.putrarajapratama&"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=putrarajapratama.putrarajapratama&"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
